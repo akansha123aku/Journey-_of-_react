@@ -8,3 +8,14 @@ Things we are going to learn
 - React Hooks.
 - React Components
 - React APIs
+
+---
+
+### Overview
+
+These topics should be learned in order to use React Effectively
+
+1. _React hooks_ : Use different React given functions in your components
+2. _Components_ : Document built-in Components that we can you in our jsx
+3. _APIs_ : APIs that are useful for defining components.
+4. _Directives_ : Provide instructions to bundlers compatible with React Server Components. e.g. "use client" in Next js
